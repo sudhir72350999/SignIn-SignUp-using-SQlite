@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MySignInSignUpSP/app/src/main/res/layout/activity_dash_board.xml" value="0.10520833333333333" />
+        <entry key="..\:/MySignInSignUpSP/app/src/main/res/layout/activity_log_in.xml" value="0.13072916666666667" />
+        <entry key="..\:/MySignInSignUpSP/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/MySignInSignUpSP/app/src/main/res/menu/main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
